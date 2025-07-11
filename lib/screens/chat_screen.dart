@@ -25,7 +25,7 @@ Be helpful, concise, and technical when appropriate.''';
 
   void _initializeServices() {
     // TODO: Replace with your actual OpenRouter API key
-    _apiKey = 'YOUR_OPENROUTER_API_KEY_HERE';
+    _apiKey = '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';
     _openRouterService = OpenRouterService(_apiKey);
   }
 
